@@ -327,49 +327,12 @@ h2.slogan{
 	font-size: 18px;
 	padding: 0 0 0 20px;
 }
-.progress li span.photoshop{width: 100%;}
-.progress li span.illustrator{width: 70%;}
-.progress li span.indesign{width: 40%;}
-.progress li span.flash{width: 80%;}
-.progress li span.html{width: 75%;}
-.progress li span.wordpress{width: 85%;}
-.progress li span.jquery{width: 70%;}
-.progress li span.seo{width: 40%;}
-.plagin_list{
-	width: 100%;
-	overflow: hidden;
-	margin: 0 0 65px;
-}
-.plagin_list li{
-	float:left;
-	margin: 0 0 0 25px;
-	border-radius: 50%;
-	behavior: url(css/PIE.htc);
-	text-indent: -9999px;
-	background: #28292b;
-	width: 121px;
-	height: 121px;
-	position:relative;
-	display: inline-block;
-	border: 1px solid #46484c;
-}
-.plagin_list li:first-child{margin: 0;}
-.plagin_list li a{
-	display: block;
-	vertical-align: middle;
-	height: 100%;
-	position: relative;
-}
-.plagin_list li.li_1 a{background: url(../images/icon_ps.png) no-repeat 50% 50% ;}
-.plagin_list li.li_2 a{background: url(../images/icon_ai.png) no-repeat 50% 50% ;}
-.plagin_list li.li_3 a{background: url(../images/icon_ld.png) no-repeat 50% 50% ;}
-.plagin_list li.li_4 a{background: url(../images/icon_fl.png) no-repeat 50% 50% ;}
-.plagin_list li.li_5 a{background: url(../images/icon_html.png) no-repeat 50% 50% ;}
-.plagin_list li.li_6 a{background: url(../images/icon_wp.png) no-repeat 50% 50% ;}
-.plagin_list li.li_7 a{background: url(../images/icon_jq.png) no-repeat 50% 50% ;}
-.plagin_list li.li_8 a{background: url(../images/icon_seo.png) no-repeat 50% 50% ;}
-.wrapper-holder.grey p{padding: 0 0 25px;}
-.plagin_list.none{display: none;}
+.progress li span.speaking{width: 100%;}
+.progress li span.writing{width: 100%;}
+.progress li span.organization{width: 100%;}
+.progress li span.java{width: 100%;}
+.progress li span.python{width: 100%;}
+.progress li span.SQL{width: 100%;}
 
 /*portfolio*/
 .sub_nav {
